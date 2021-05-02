@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "message": "Kaam pacchis",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-04-30T15:34:46.634Z",
+      "id": 1
+    },
+    {
+      "message": "Maal pahuch gya",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-04-30T15:35:08.126Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jeniffer",
+      "lastName": "Williams",
+      "id": 4
+    }
+  ]
+}
